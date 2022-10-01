@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Hack Reactor?"
 date:   2021-11-25 13:00:00
-categories: jekyll update
+categories: bootcamp
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
