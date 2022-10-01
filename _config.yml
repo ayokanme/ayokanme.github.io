@@ -8,7 +8,7 @@ title: "Musings"
 description: > # this means to ignore newlines until "email:"
    A collection of some of my thoughts
 
-email: #musings@ayokan.me
+email: hello@ayokan.me
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
