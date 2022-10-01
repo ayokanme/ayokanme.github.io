@@ -41,7 +41,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	handshake-o
+  - icon:	handshake-alt
     url:	https://collab.ayokan.me
     desc: Collaborate with me on PolyWork
     share_url:
