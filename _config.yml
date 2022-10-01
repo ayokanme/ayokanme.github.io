@@ -8,7 +8,7 @@ title: "Musings"
 description: > # this means to ignore newlines until "email:"
    A collection of some of my thoughts
 
-email: musings@ayokan.me
+email: #musings@ayokan.me
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -20,7 +20,7 @@ name: 'Muizz Matemilola'
 author: 'Muizz Matemilola'
 author_image: "/assets/images/author.jpg"
 
-paginate:	20
+paginate:	5
 
 url: "https://ayokan.me" # the base hostname & protocol for your site
 baseurl: ""
