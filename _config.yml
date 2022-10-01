@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Musings"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A collection of some of my thoughts
 
-email: a-mail@mail.mail
+email: musings@ayokan.me
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -16,16 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Muizz Matemilola'
+author: 'Muizz Matemilola'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	20
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://ayokan.me" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@ayokanme'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,22 +35,22 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/ayokanme
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://collab.ayokan.me
+    desc: Collaborate with me on PolyWork
+    share_url:
+    share_title:
+    share_link:
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/ayokanme
+    desc:	Check out my work on github
     share_url:
     share_title:
     share_link:
