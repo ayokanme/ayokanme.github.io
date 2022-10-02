@@ -41,7 +41,7 @@ It depends on your circumstances. Consider the following:
 
 |  | Traditional | Vocational | Solo |
 | --- | --- | --- | --- |
-| **Time Commitment** | 2 to 4 years | 10 weeks to 18 months | Up to you |
+| **Commitment** | 2 to 4 years | 10 weeks to 18 months | Up to you |
 | **Cost ($ '000)** | 10 to 100 | 1 to 10 | Free to 10 |
 | **Financing** | Self-funded, Scholarships, Student Loans | Self-funded, scholarships, income sharing agreements | Self-funded (if you need it) |
 | **Curriculum** | General Knowledge, Deep CS Theory, Mathematics, Electives | Some CS Theory, Weekly Sprints | DIY (create your own curriculum) or follow this one: [Open Source Society University](https://github.com/ossu/computer-science) |
