@@ -41,11 +41,11 @@ It depends on your circumstances. Consider the following:
 
 |  | Traditional | Vocational | Solo |
 | --- | --- | --- | --- |
-| Time Commitment | 2 to 4 years | 10 weeks to 18 months | Up to you |
-| Cost (in $) | 10s to 100s of 1000s | 1s to 10s of 1000 | Free to 10s of 1000s |
-| Financing | Self-funded, Scholarships, Student Loans | Self-funded, scholarships, income sharing agreements | Self-funded (if you need it) |
-| Curriculum | General Knowledge, Deep CS Theory, Mathematics, Electives | Some CS Theory, Weekly Sprints | DIY (create your own curriculum) or follow this one: Open Source Society University :) |
-| Outcome | Associates, Bachelors, or Masters degree | Project Portfolio | Project Portfolio |
-| Job Search Assistance | Career Services Center, Recruiting Events, Hackathons | Career Services Center, Recruiting Events, Hackathons | DIY (create your own network), Hackathons |
-| Alumni Network | Deep and Extensive  | Extensive (in the 10s of 1000s) | DIY (Reddit, Discord, and etc.) |
-| Where to start? | University Rankings | Career Karma, Bootcamp Rankings, Course Report, Switch Up | Reddit, YouTube, Discord, Podcasts |
+| **Time Commitment** | 2 to 4 years | 10 weeks to 18 months | Up to you |
+| **Cost ($ '000)** | 10 to 100 | 1 to 10 | Free to 10 |
+| **Financing** | Self-funded, Scholarships, Student Loans | Self-funded, scholarships, income sharing agreements | Self-funded (if you need it) |
+| **Curriculum** | General Knowledge, Deep CS Theory, Mathematics, Electives | Some CS Theory, Weekly Sprints | DIY (create your own curriculum) or follow this one: Open Source Society University :) |
+| **Outcome** | Associates, Bachelors, or Masters degree | Project Portfolio | Project Portfolio |
+| **Job Search Assistance** | Career Services Center, Recruiting Events, Hackathons | Career Services Center, Recruiting Events, Hackathons | DIY (create your own network), Hackathons |
+| **Alumni Network** | Deep and Extensive  | Extensive (in the 10s of 1000s) | DIY (Reddit, Discord, and etc.) |
+| **Where to start?** | University Rankings | Career Karma, Bootcamp Rankings, Course Report, Switch Up | Reddit, YouTube, Discord, Podcasts |
