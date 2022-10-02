@@ -4,7 +4,7 @@ title:  "Why Hack Reactor?"
 date:   2021-11-25 13:00:00
 categories: bootcamp
 tags: featured
-permalink: /hackreactor
+permalink: /hackreactor/
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 In this post I'll attempt to articulate the thought process I used to decide on Hack Reactor. I discuss how I got to this point in my `previous entry`.
