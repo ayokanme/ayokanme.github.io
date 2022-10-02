@@ -41,6 +41,13 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon:	github
+    url:	https://github.com/ayokanme
+    desc:	Check out my work on GitHub
+    share_url:
+    share_title:
+    share_link:
+    
   - icon:	handshake-o
     url:	https://collab.ayokan.me
     desc: Collaborate with me on PolyWork
@@ -48,16 +55,9 @@ social:
     share_title:
     share_link:
 
-  - icon:	github
-    url:	https://github.com/ayokanme
-    desc:	Check out my work on GitHub
+  - icon:	file-text-o
+    url:	https://resume.ayokan.me
+    desc:	My resume
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
