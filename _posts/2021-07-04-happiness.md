@@ -10,7 +10,7 @@ image: /assets/article_images/gradients_3.png
 > Happiness is the difference between your expectations and the reality.
 > 
 
-I couldn’t find attribution for the quote above. Still, I've found it to be quite true in most situations. If you expect a lot and you get too little, you will end up disappointed. If you expect little and get a lot, you will probably be delighted. I prefer to think of expectation and reality as dials that can be turned up or down. Where you set your expectation and reality dials relative to one another is what determines your level of happiness.
+I couldn’t find attribution for the quote above. Still, I've found it to be quite true in most situations. If you expect a lot and you get too little, you will end up disappointed. If you expect little and get a lot, you will probably be delighted. I prefer to think of expectation and reality as dials that can be turned up or down. Where you set your expectation and reality dials relative to one another ultimately determines your level of happiness.
 
 If you don't like the news you get on CNN, switch to Fox News… or turn the TV off.
 
