@@ -5,6 +5,7 @@ date:   2021-11-25 13:00:00
 permalink: /hackreactor
 image: /assets/article_images/desert_walker.jpg
 ---
+
 In this post I'll attempt to articulate the thought process I used to decide on Hack Reactor. I discuss how I got to this point in my `previous entry`.
 
 ### Why go to a bootcamp?
@@ -15,7 +16,7 @@ Unlike most other disciplines, there are a number of options if you want to pivo
 2. A vocational program (focused, project-based learning) like a bootcamp or an apprenticeship.
 3. Go solo. All the documents you need to learn the tools of the trade (backend and frontend languages, databases, testing frameworks, compilers, version control, and etc.) are available for free on the internet. Don't believe me? A lot of the web platforms you use today are built on the [MERN tech stack](https://www.educative.io/edpresso/what-is-mern-stack). Here is all the documentation: [MongoDB](https://docs.mongodb.com/), [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/docs/getting-started.html), and [Node.js](https://nodejs.org/en/docs/). Free.
 
-That being said, the most straight-forward path into any of corporation is to graduate with a CS degree from a reputable university. I am living proof of this. I went to a highly-ranked Petroleum Geology School for my bachelors and masters degrees in geology. The top companies in the petroleum industry came there to recruit and I ended up at one of them. Software engineering is  different, however. Most of the technologies used to build the applications that power the world today are open-source. Anybody can pick up the documentation, learn it with enough dedication and curiosity, and put together a working application (see #2 and #3 above). All you need is a computer and an internet connection.
+That being said, the most straight-forward path into any of corporation is to graduate with a CS degree from a reputable university. I am living proof of this. I went to a highly-ranked petroleum geology school for my bachelors and masters degrees in geology. The top companies in the petroleum industry came there to recruit and I ended up at one of them. Software engineering is different, however. Most of the technologies used to build the applications that power the world today are open-source. Anybody can pick up the documentation, learn it with enough dedication and curiosity, and put together a working application (see #2 and #3 above). All you need is a computer and an internet connection.
 
 Consider the following statistics: Approximately [50,000 computer science graduates](https://datausa.io/profile/cip/computer-science-110701) are minted every year in the US and the first computer science department in the US was [established in 1962](https://www.cs.purdue.edu/about/conte.html); Coding bootcamps started [cropping up](https://news.ycombinator.com/item?id=3377476) in the US in the early 2010s and they churn out [over 30,000 graduates each year](https://careerkarma.com/blog/bootcamp-market-report-2020/) as of 2020. The fast growth in bootcamps and the loose regulation around them has given them a mixed reputation with hiring managers.
 
