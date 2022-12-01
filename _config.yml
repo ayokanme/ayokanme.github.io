@@ -12,7 +12,6 @@ description: > # this means to ignore newlines until "email:"
    A collection of some of my thoughts
 
 email: hello@ayokan.me
-#blog logo
 logo: "/assets/images/ero_logo.png"
 float_logo: true # true, false (default)
 
@@ -31,17 +30,13 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "https://ayokan.me" # the base hostname & protocol for your site
+url: "https://ayokan.me"
 baseurl: ""
-#used to display twitter cards
 twitter_handle: '@ayokanme'
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
 
 #google_analytics: UA-XXXXX-X
 
-# social icons and sharing options
 social:
   - icon:	twitter
     url:	https://twitter.com/ayokanme
