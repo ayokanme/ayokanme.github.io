@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Atoms to Bits"
-date:   2022-12-01 13:00:00
-published: true
-permalink: /atoms2bits
+title:  "Why Software?"
+date:   2022-12-03 13:00:00
+published: false
+permalink: /why-software
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
