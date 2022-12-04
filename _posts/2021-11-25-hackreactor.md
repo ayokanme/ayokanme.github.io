@@ -6,7 +6,7 @@ permalink: /hackreactor
 image: /assets/article_images/desert_walker.jpg
 ---
 
-In this post I'll attempt to articulate the thought process I used to decide on Hack Reactor. I discuss how I got to this point in my `previous entry`.
+In this post I'll attempt to articulate the thought process I used to decide on Hack Reactor. I discuss how I got to this point in [Atoms to Bits](/atoms2bits).
 
 ### Why go to a bootcamp?
 
@@ -44,9 +44,9 @@ It depends on your circumstances. Consider the following:
 | --- | --- | --- | --- |
 | **Commitment** | 2 to 4 years | 10 weeks to 18 months | Up to you |
 | **Cost ($ '000)** | 10 to 100 | 1 to 10 | Free to 10 |
-| **Financing** | Self-funded, Scholarships, Student Loans | Self-funded, scholarships, income sharing agreements | Self-funded (if you need it) |
+| **Financing** | Self-funded, Scholarships, Student Loans | Self-funded, scholarships, income sharing agreements | -- |
 | **Curriculum** | General Knowledge, Deep CS Theory, Mathematics, Electives | Some CS Theory, Weekly Sprints | DIY (create your own curriculum) or follow this one: [Open Source Society University](https://github.com/ossu/computer-science) |
 | **Outcome** | Associates, Bachelors, or Masters degree | Project Portfolio | Project Portfolio |
-| **Job Search Assistance** | Career Services Center, Recruiting Events, Hackathons | Career Services Center, Recruiting Events, Hackathons | DIY (create your own network), Hackathons |
+| **Job Search Assistance** | Career Services Center, Recruiting Events, Hackathons | Career Services Center, Recruiting Events, Hackathons | DIY, Hackathons |
 | **Alumni Network** | Deep and Extensive  | Extensive (in the 10s of 1000s) | DIY (Reddit, Discord, and etc.) |
 | **Where to start?** | University Rankings | Career Karma, Bootcamp Rankings, Course Report, Switch Up | Reddit, YouTube, Discord, Podcasts |
