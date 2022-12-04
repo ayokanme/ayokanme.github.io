@@ -58,6 +58,8 @@ layout: default
 
     <div class="cf frame">
       {% for post in paginator.posts %}
+        <!-- import readtime -->                 
+        {%- include reading_time.html content=post.content -%}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
@@ -68,7 +70,8 @@ layout: default
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-              <span>{{ post.content }}</span>
+              <span>" | "</span> 
+              <span>{{ reading_time }}</span>                                              
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
