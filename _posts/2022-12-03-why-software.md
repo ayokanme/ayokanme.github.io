@@ -14,7 +14,7 @@ I made up my mind to leave. One problem though, where to this time?
 
 I considered the usual oil and gas exit routes—banking and consulting—but both of them ticked boxes I was trying to avoid.  
 
-Then I realized the answer was in all the exploration I was doing in my free time. I was always interested in how things got built and how they worked. Naturally, I found myself spending a lot of my time immersed in the history of the technologies that power our everyday life. From electricity to the telegraph and telephone, to computers and the internet.[^1],[^2] Particularly, the internet. I noticed three things they had in common.  
+Then I realized the answer was in all the exploration I was doing in my free time. I was always interested in how things got built and how they worked. Naturally, I found myself spending a lot of my time immersed in the history of the technologies that power our everyday life. From electricity to the telegraph and telephone, to computers and the internet.[^1][^2] Particularly, the internet. I noticed three things they had in common.  
 
 **Ubiquity**  
 
