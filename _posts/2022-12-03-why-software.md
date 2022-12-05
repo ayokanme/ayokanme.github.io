@@ -55,8 +55,12 @@ The internet makes code and content truly permissionless forms of productivity l
 Ultimately, the choice was between sticking with what had worked well for me and swimming towards something that offered ubiquity, composability, and infinite leverage. I needed to be fair to my future self by not limiting future opportunities because of assumptions that no longer held true.  
 
 
-_**Notes**_
+_**Notes**_  
+
 [^1]: Some interesting reading about the [origins of computing](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/). Really, the history of logical thinking.
+
 [^2]: If I had to choose a book that make everything _click_ for me, [Code by Charles Petzold](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) would be it. Great recommendation if you want the fundamentals of how things work under the hood.
+
 [^3]: Genetic code is borne of a combination of 4 nucleotide bases. These bases encode all the information required to build and maintain an organism. The key to its complexity and efficiency is its composability. From just four bases it can be combined in almost limitless ways to create an astounding variety of enzymes, hormones, and antibodies, each with a specific function. Here's an [interesting read](https://www.science.org/content/article/dna-could-store-all-worlds-data-one-room).
+
 [^4]: Content is a colloquialism for information or entertainment. Think text (articles and books), audio (songs, podcasts, or audiobooks), imagery, and video. Media of distribution is quite important as well. Historically, content replication required physical mediums. Paper for writing, vinyl records for audio, canvas for imagery, and film for video. The replication cost for a CD was the price of a blank CD (and its labeling). No matter how cheap a CD is, the cost scales linearly as more CDs are printed. The same artist only requires one copy of an MP3 for unlimited online downloads or streaming.
