@@ -55,9 +55,9 @@ The internet makes code and content truly permissionless forms of productivity l
 
 
 
-Ultimately, the choice was between sticking with what had worked for me or taking the fork that just appeared in the road. In early 2021, the picture below showed up on my Twitter feed...  
+Ultimately, the choice was between sticking with what had worked for me or taking the fork that just appeared in the road. In early 2021, this showed up on my Twitter feed...[^5]  
 
-[![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
+[![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
 
 \
 \
@@ -73,3 +73,5 @@ _**Notes**_
 [^3]: Genetic code is borne of a combination of 4 nucleotide bases. These bases encode all the information required to build and maintain an organism. The key to its complexity and efficiency is its composability. From just four bases it can be combined in almost limitless ways to create an astounding variety of enzymes, hormones, and antibodies, each with a specific function. Here's an [interesting read](https://www.science.org/content/article/dna-could-store-all-worlds-data-one-room).
 
 [^4]: Content is a colloquialism for information or entertainment. Text like articles and books; Audio like songs, podcasts, or audiobooks; and Visual depictions like imagery and video. The medium of distribution is quite important as well. Historically, content replication required physical mediums. Paper for writing, vinyl records for audio, canvas for imagery, and film for video. The replication cost for a CD was the price of a blank CD (and its labeling). No matter how cheap a CD is, the cost scales linearly as more CDs are printed. An artist only requires one copy of an MP3 for unlimited online downloads or streaming.
+
+[^5]: The opportunity for introspection brought on by the pandemic was most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) was the second on the list. The image is "[Life Paths, by Tim Urban](https://twitter.com/waitbutwhy/status/1367871165319049221)."
