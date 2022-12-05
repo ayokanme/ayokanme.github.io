@@ -6,16 +6,6 @@ gems:
 plugins:
   - jekyll-spaceship
 
-redcarpet:
-  extensions:
-    - footnotes
-    - hard_wrap
-    - no_intra_emphasis
-    - autolink
-    - strikethrough
-
-highlighter: pygments
-
 # Site settings
 title: "Ero"
 description: > # this means to ignore newlines until "email:"
