@@ -26,11 +26,11 @@ Code is everywhere.
 
 Tools built from a finite set of primitives (building blocks) can be recomposed.  
   
-Computers perform [addition](https://en.wikipedia.org/wiki/Adder_(electronics)) using a series of electrical switches (XOR, AND, & OR) to handle summation and overflow. The recomposition of these primitives allows for the computation of subtractions and multiplications.  
+Computers perform [addition](https://en.wikipedia.org/wiki/Adder_(electronics)) using a series of electrical switches to handle summation and overflow. The recomposition of these primitives allows for the computation of subtractions and multiplications.  
 
-Telegraphy is a composition of signals (typically morse code) transmitted using visual, auditory, or electrical means.  
+Telegraphy is a composition of signals transmitted using visual, auditory, or electrical means.  
 
-The internet is a composition of networked computers interacting using a series of protocols. DNS locates sites, HTTP/S handles requests and responses between web clients and servers, SMTP sends mail, IMAP/POP retrieve mail, and many others.   
+The internet is a composition of networked computers interacting using a series of protocols. DNS locates sites, HTTP/S handles requests and responses between web clients and servers, SMTP sends mail, IMAP/POP retrieve mail, and so on.   
 
 DNA is the most complex program. Four primitives (nucleotide bases) are responsible for the unique cellular expressions of the over 100 billion humans that have ever lived.[^3]  
 
