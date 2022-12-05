@@ -53,10 +53,12 @@ The internet makes code and content truly permissionless forms of productivity l
 [![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
 
 Ultimately, the choice was between sticking with what had worked well for me and swimming towards something that offered ubiquity, composability, and infinite leverage. I needed to be fair to my future self by not limiting future opportunities because of assumptions that no longer held true.  
-
-
+  
+  
+  
+  
 _**Notes**_  
-
+  
 [^1]: Some interesting reading about the [origins of computing](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/). Really, the history of logical thinking.
 
 [^2]: If I had to choose a book that make everything _click_ for me, [Code by Charles Petzold](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) would be it. Great recommendation if you want the fundamentals of how things work under the hood.
