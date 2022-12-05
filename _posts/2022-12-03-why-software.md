@@ -50,9 +50,14 @@ Alternatively, assume I have an idea for a better video hosting site than YouTub
 
 The internet makes code and content truly permissionless forms of productivity leverage by offering instantaneous, global reach at negligible replication costs.  
 
-[![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
+\
+...  
 
-Ultimately, the choice was between sticking with what had worked for me or taking the fork that just appeared in the road. In early 2021, the picture above showed up on my twitter feed...  
+\
+
+Ultimately, the choice was between sticking with what had worked for me or taking the fork that just appeared in the road. In early 2021, the picture below showed up on my Twitter feed...  
+
+[![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
 
 \
 \
