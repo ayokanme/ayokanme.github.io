@@ -51,9 +51,9 @@ Alternatively, assume I have an idea for a better video hosting site than YouTub
 The internet makes code and content truly permissionless forms of productivity leverage by offering instantaneous, global reach at negligible replication costs.  
 
 \
-...  
+**...**  
 
-\
+
 
 Ultimately, the choice was between sticking with what had worked for me or taking the fork that just appeared in the road. In early 2021, the picture below showed up on my Twitter feed...  
 
