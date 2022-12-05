@@ -48,12 +48,11 @@ If I had a great singing voice, I could [stand in the middle of a public square 
 
 Alternatively, assume I have an idea for a better video hosting site than YouTube. I could write the code for the new site, put it online, and take all of YouTube's customers. Theoretically, of course.  
 
-The internet makes code and content truly permissionless forms of productivity leverage by offering instantaneous, global reach (streaming, social media, and cloud computing). All at very trivial scaling costs.  
+The internet makes code and content truly permissionless forms of productivity leverage by offering instantaneous, global reach at negligible replication costs.  
 
 [![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
 
-Ultimately, the choice was between sticking with what had worked well for me and swimming towards something that offered ubiquity, composability, and infinite leverage. I needed to be fair to my future self by not limiting future opportunities because of assumptions that no longer held true.  
-
+\
 \
 \
 \
