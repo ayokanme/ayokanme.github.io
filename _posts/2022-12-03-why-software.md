@@ -36,7 +36,7 @@ DNA is the most complex program. Four primitives (nucleotide bases) are responsi
 
 **Leverage**
 
-> Software is executable thought
+  > Software is executable thought
 
 There are two forms of productivity leverage—labor and capital. Creating value by leveraging labor requires the coercion of people (with money or the threat of violence) to do productive work. Capital refers to resources such as money, property, or machinery. It can be allocated to produce goods or services.  
 
