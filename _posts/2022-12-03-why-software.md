@@ -52,6 +52,8 @@ The internet makes code and content truly permissionless forms of productivity l
 
 [![](/assets/article_images/atoms2bits/waitbutwhy_lifepaths.jpeg "Life Paths, by Tim Urban. I'd say the opportunity for introspection brought on by the pandemic was the most impactful in making me switch career paths. Cleansing politics from my Twitter feed (2020 was a wild one, huh?) and allowing in more technology was the next most impactful.")](https://twitter.com/waitbutwhy/status/1367871165319049221)  
 
+Ultimately, the choice was between sticking with what worked or taking the fork in the road. In early 2021, the picture above showed up on my twitter feed...  
+
 \
 \
 \
