@@ -35,7 +35,7 @@ baseurl: ""
 twitter_handle: '@ayokanme'
 
 
-#google_analytics: UA-XXXXX-X
+google_analytics: UA-251619166-1
 
 social:
   - icon:	twitter
