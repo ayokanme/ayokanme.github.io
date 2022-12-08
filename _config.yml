@@ -29,7 +29,7 @@ name: 'ayokanme'
 author: 'Muizz Matemilola'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	10
 
 url: "https://ayokan.me"
 baseurl: ""
@@ -52,7 +52,7 @@ social:
     share_url:
     share_title:
     share_link:
-    
+
   - icon:	handshake-o
     url:	https://collab.ayokan.me
     desc: Collaborate with me on PolyWork
@@ -66,10 +66,10 @@ social:
     share_url:
     share_title:
     share_link:
-    
+
   - icon:	address-card-o
     url:	https://ayokan.me/about
     desc:	About me
     share_url:
     share_title:
-    share_link:    
+    share_link:
