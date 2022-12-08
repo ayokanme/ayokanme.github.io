@@ -4,6 +4,7 @@ gems:
   - jekyll-paginate
 
 plugins:
+  - jekyll-sitemap
   - jekyll-spaceship
 
 # Site settings
