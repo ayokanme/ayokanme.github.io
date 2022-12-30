@@ -20,7 +20,7 @@ and over
 
 ![](https://twitter.com/realkelvin07/status/1548992194714943488)
 
-*Why capture value?*
+**Why capture value?**
 
 Value-creating activities beget value-creating activities. Ecosystems form around it. People build new tools to exploit it. People swarm to make a living engaging in it. Value creation compounds and the ecosystem discovers new value-creating activities to engage in.
 
@@ -40,7 +40,7 @@ Without those ingredients, you get situations like this[^2]
 
 Why did I write this? Mainly because it’s been stuck in my head and I see it everywhere I turn. Or maybe it’s because of my 2023 resolution. To be continued.
 
-_*Notes:*_
+**_Notes:_**
 
 [^1]: Recently, there’s been articles in the news [ghana cocoa, zim, nigeria, drc] emphasizing that foreign companies need to set up processing facilities in-country if they want to continue to access certain resources. I think the spirit is great. but are the systems set up to capture and compound the value that will arise from these changes? The jury is still out.
 
