@@ -8,7 +8,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 This tweet popped up on my timeline 6 months ago. The journey looks incredibly inefficient. But I assume it is profitable since this supply chain was set up by rational economic actors. The interesting thing about this process is that the folks making the largest margins in this operation do the least amount of dirty work.
 
-<blockquote class="twitter-tweet" data-theme="light"><p lang="fr" dir="ltr">&quot;capitalism is efficient&quot; <a href="https://t.co/RZlxzZ2nMP">pic.twitter.com/RZlxzZ2nMP</a></p>&mdash; ☀️👀 (@zei_squirrel) <a href="https://twitter.com/zei_squirrel/status/1542625232208502784?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="light"><p lang="fr" dir="ltr">&quot;capitalism is efficient&quot; <a href="https://t.co/RZlxzZ2nMP">pic.twitter.com/RZlxzZ2nMP</a></p>&mdash; ☀️👀 (@zei_squirrel) <a href="https://twitter.com/zei_squirrel/status/1542625232208502784?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote>
 
 **...**
 
