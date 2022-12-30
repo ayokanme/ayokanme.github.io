@@ -8,7 +8,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 
 This tweet popped up on my timeline 6 months ago. The journey looks incredibly inefficient. But I assume it is profitable since this supply chain was set up by rational economic actors. The interesting thing about this process is that the folks making the largest margins in this operation do the least amount of dirty work.
 
-![](https://twitter.com/zei_squirrel/status/1542625232208502784)
+<blockquote class="twitter-tweet" data-theme="light"><p lang="fr" dir="ltr">&quot;capitalism is efficient&quot; <a href="https://t.co/RZlxzZ2nMP">pic.twitter.com/RZlxzZ2nMP</a></p>&mdash; ☀️👀 (@zei_squirrel) <a href="https://twitter.com/zei_squirrel/status/1542625232208502784?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **...**
 
@@ -20,7 +20,7 @@ But for some reason, the same thing happens over[^1]
 
 and over
 
-![](https://twitter.com/realkelvin07/status/1548992194714943488)
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Nigeria exported $12m worth of ginger in 2021 or 523k metric tonnes that represents 14% of the global supply for ginger.<br><br>If you convert that ginger into ginger oil (through steam distillation) that is used as flavoring agents for beverages, confectionery and perfumes,</p>&mdash; Kelvin. (@realkelvin07) <a href="https://twitter.com/realkelvin07/status/1548992194714943488?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Why capture value?**
 
