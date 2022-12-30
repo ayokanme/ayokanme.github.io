@@ -20,7 +20,7 @@ But for some reason, the same thing happens over[^1]
 
 and over
 
-<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Nigeria exported $12m worth of ginger in 2021 or 523k metric tonnes that represents 14% of the global supply for ginger.<br><br>If you convert that ginger into ginger oil (through steam distillation) that is used as flavoring agents for beverages, confectionery and perfumes,</p>&mdash; Kelvin. (@realkelvin07) <a href="https://twitter.com/realkelvin07/status/1548992194714943488?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Nigeria exported $12m worth of ginger in 2021 or 523k metric tonnes that represents 14% of the global supply for ginger.<br><br>If you convert that ginger into ginger oil (through steam distillation) that is used as flavoring agents for beverages, confectionery and perfumes,</p>&mdash; Kelvin. (@realkelvin07) <a href="https://twitter.com/realkelvin07/status/1548992194714943488?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote>
 
 **Why capture value?**
 
@@ -38,7 +38,7 @@ Four countries in the world capture half of the value created on earth, annually
 
 Without those ingredients, you get situations like this[^2]
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">French construction companies also built stadiums for Qatar. Thailand exchanged their vote for a gas deal and Brazil for Qatar investment in a Brazilian bank. What did the people of Africa get? Africans were taken to Qatar to work as slaves to build the stadiums for the World Cup</p>&mdash; AA (@Adxpillar) <a href="https://twitter.com/Adxpillar/status/1591069818090041345?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">French construction companies also built stadiums for Qatar. Thailand exchanged their vote for a gas deal and Brazil for Qatar investment in a Brazilian bank. What did the people of Africa get? Africans were taken to Qatar to work as slaves to build the stadiums for the World Cup</p>&mdash; AA (@Adxpillar) <a href="https://twitter.com/Adxpillar/status/1591069818090041345?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote>
 
 Why did I write this? Mainly because it’s been stuck in my head and I see it everywhere I turn. Or maybe it’s because of my 2023 resolution. To be continued.
 
