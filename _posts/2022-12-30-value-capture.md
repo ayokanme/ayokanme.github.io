@@ -10,6 +10,8 @@ This tweet popped up on my timeline 6 months ago. The journey looks incredibly i
 
 ![](https://twitter.com/zei_squirrel/status/1542625232208502784)
 
+**...**
+
 Societies develop by capturing most of the value they create, which improves their quality of life. Governments can turbocharge value capture by taxing and regulating economic activities, as well as directing public investments.
 
 But for some reason, the same thing happens over[^1]
@@ -36,7 +38,7 @@ Four countries in the world capture half of the value created on earth, annually
 
 Without those ingredients, you get situations like this[^2]
 
-![fifa uncovered tweet](https://twitter.com/Adxpillar/status/1591063067303219203)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">French construction companies also built stadiums for Qatar. Thailand exchanged their vote for a gas deal and Brazil for Qatar investment in a Brazilian bank. What did the people of Africa get? Africans were taken to Qatar to work as slaves to build the stadiums for the World Cup</p>&mdash; AA (@Adxpillar) <a href="https://twitter.com/Adxpillar/status/1591069818090041345?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Why did I write this? Mainly because it’s been stuck in my head and I see it everywhere I turn. Or maybe it’s because of my 2023 resolution. To be continued.
 
