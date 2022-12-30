@@ -16,7 +16,7 @@ Societies develop by capturing most of the value they create, which improves the
 
 But for some reason, the same thing happens over[^1]
 
-![](https://www.nytimes.com/2022/01/27/learning/whats-going-on-in-this-graph-feb-2-2022.html)
+[![](/assets/article_images/2022-12-30-value-capture/clean_energy_metals.jpg "China is the world's processor (a.k.a. value creator) for clean energy metals")](https://www.nytimes.com/2022/01/27/learning/whats-going-on-in-this-graph-feb-2-2022.html)
 
 and over
 
