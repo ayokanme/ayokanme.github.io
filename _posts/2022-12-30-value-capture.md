@@ -32,7 +32,7 @@ Information asymmetry also plays a role in preventing value capture. Think of th
 
 For the longest time, I used to believe the trope “Africa is the wealthiest continent.” Is it? Nigeria, with it's abundance of natural resources was very recently named the “poverty capital of the world.” The DRC has the largest cobalt deposits in the world. Contrast it with where the cobalt is eventually used. Who is wealthier?
 
-![Top 50% of global GDP ](https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/)
+[![](/assets/article_images/2022-12-30-value-capture/top_50_global_gdp.png "Countries with territories amounting to under 4% of total land area account for 50% of global GDP. Amazing.")](https://www.visualcapitalist.com/visualizing-the-94-trillion-world-economy-in-one-chart/)
 
 Four countries in the world capture half of the value created on earth, annually. Japan makes the cut without any significant natural resources to boast of. The things they have in common are robust manufacturing bases, political stability, and rule of law.
 
