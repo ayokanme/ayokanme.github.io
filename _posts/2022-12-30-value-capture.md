@@ -3,7 +3,7 @@ layout: post
 title:  "Value Capture"
 date:   2022-12-30 13:00:00
 published: false
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+image: /assets/article_images/2022-12-30-value-capture/value_capture.png
 ---
 
 This tweet popped up on my timeline 6 months ago. The journey looks incredibly inefficient. But I assume it is profitable since this supply chain was set up by rational economic actors. The interesting thing about this process is that the folks making the largest margins in this operation do the least amount of dirty work.
@@ -41,6 +41,12 @@ Without those ingredients, you get situations like this[^2]
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">French construction companies also built stadiums for Qatar. Thailand exchanged their vote for a gas deal and Brazil for Qatar investment in a Brazilian bank. What did the people of Africa get? Africans were taken to Qatar to work as slaves to build the stadiums for the World Cup</p>&mdash; AA (@Adxpillar) <a href="https://twitter.com/Adxpillar/status/1591069818090041345?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote>
 
 Why did I write this? Mainly because it’s been stuck in my head and I see it everywhere I turn. Or maybe it’s because of my 2023 resolution. To be continued.
+
+\
+\
+\
+\
+\
 
 **_Notes:_**
 
