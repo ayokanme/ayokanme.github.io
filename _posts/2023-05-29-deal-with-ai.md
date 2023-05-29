@@ -109,15 +109,15 @@ What if I wanted to include other attributes?
 	...,
 	"Thiago Silva": [...],
 	"Rudiger": [
-    2, // Jersey Number
-    5, // Position
+		2, // Jersey Number
+		5, // Position
 		23, // Career Goals
-    8, // Tackling
-    9, // Speed
-    8.5, // Strength
-    5, // Heading
-    6 // Passing
-  ],
+		8, // Tackling
+		9, // Speed
+		8.5, // Strength
+		5, // Heading
+		6 // Passing
+	],
 	"James": [...],
 	...
 }
