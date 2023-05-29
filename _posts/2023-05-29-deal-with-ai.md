@@ -104,6 +104,10 @@ I could add that context with another dimension.
 
 What if I wanted to include other attributes?
 
+![[skills](/assets/article_images/2023-05-29-deal-with-ai/skills.png)]("Radar plots might look familiar from PES menus back in the day... or if you do any kind of statistical work. Very handy for expressing multi-dimensionality. Need to experiment with it in 3D")
+
+My embedding would then look like this:
+
 ```json
 {
 	...,
@@ -122,8 +126,6 @@ What if I wanted to include other attributes?
 	...
 }
 ```
-
-![skills](/assets/article_images/2023-05-29-deal-with-ai/skills.png)
 
 I could use this same method to embed additional dimensions describing wages, market value, reputation, and whatever else we’d like. Retrieval using those embedding simply requires searching for similarity along the relevant dimensions for the query. Actual embedding algorithms don’t encode data as simply as this, but this gives a general idea of what the numbers mean and how they get used by the model during inference.
 
