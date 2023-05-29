@@ -104,7 +104,7 @@ I could add that context with another dimension.
 
 What if I wanted to include other attributes?
 
-![[]("Radar plots might look familiar from PES menus back in the day... or if you do any kind of statistical work. Very handy for expressing multi-dimensionality. Need to experiment with it in 3D")](/assets/article_images/2023-05-29-deal-with-ai/skills.png)
+![](/assets/article_images/2023-05-29-deal-with-ai/skills.png "Radar plots might look familiar from PES menus back in the day... or if you do any kind of statistical work. Very handy for expressing multi-dimensionality. Need to experiment with it in 3D")
 
 My embedding would then look like this:
 
