@@ -139,6 +139,7 @@ Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10)
 
 **_Notes:_**
 
-[^1]: Recently, there’s been articles in the news [ghana cocoa, zim, nigeria, drc] emphasizing that foreign companies need to set up processing facilities in-country if they want to continue to access certain resources. I think the spirit is great. but are the systems set up to capture and compound the value that will arise from these changes? The jury is still out.
-
-[^2]: Watching the FIFA Uncovered documentary (Netflix [link]) was pretty sad. Not necessarily because it confirmed what we knew about corruption in world football. Other countries signed deals for gas to provide energy and and warm their homes in the winter. Meanwhile, the African delegates traded their votes for orders of magnitude less than their European counterparts. Not only that, the trade only benefitted the few people close to the voting. When your systems are not set up for capturing value for the society, it’s called corruption. When they are, it’s called lobbying. I know which one of the evils I prefer.
+[^1]: Neural Network
+[^2]: Large Language Models. Transformer
+[^3]: Perception. Natural Language Processing. Computer Vision. Speech Recognition
+[^4]: Models. image / text / audio / video
