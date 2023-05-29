@@ -3,10 +3,10 @@ layout: post
 title:  "What's the deal with AI?"
 date:   2023-05-29 13:00:00
 published: false
-image: /assets/article_images/2023-05-29-deal-with-ai/header.png
+image: /assets/article_images/2023-05-29-deal-with-ai/header.jpeg
 ---
 
-I’ve been due for a new post for a while. Between moving states, settling into a new city, and endless new distractions (LLMs and all their offshoots) in the world; it’s been challenging to find time to write. Well, the dust has settled a bit. Time to put some thoughts down.
+_(I’ve been due for a new post for a while. Between moving states, settling into a new city, and endless new distractions (LLMs and all their offshoots) in the world; it’s been challenging to find time to write. Well, the dust has settled a bit. Time to put some thoughts down.)_
 
 Unless you’ve been living under a rock, sometime late last year or early this year, you probably heard about something called ChatGPT. A very simple-looking chatbot website showed up (seemingly out of nowhere) and put everyone on notice; *AI is about to change the world*.
 
@@ -64,6 +64,70 @@ How about text embeddings.
 Say I want to store data about a soccer team’s players so that the model can have useful context to answer questions about them. How do I store that data?
 
 A simple way to store the data would be to represent the players by their jersey numbers. But that would not give our bot any context other than, the positions of the players on the field.
+
+
+What if the team was Chelsea’s Champions League winning squad of 2021? Very few of the players have jersey numbers that match their positions on the field.
+
+```json
+{
+    "Mendy": 16,
+    "Azpilicueta": 28,
+    "Thiago Silva": 6,
+    "Rudiger": 2,
+    "James": 24,
+    "Kante": 7,
+    "Jorginho": 5,
+    "Chilwell": 21,
+    "Mount": 19,
+    "Werner": 11,
+    "Havertz": 29
+}
+```
+
+I could add that context with another dimension.
+
+```json
+{
+    "Mendy": [16, 1],
+    "Azpilicueta": [28, 4],
+    "Thiago Silva": [6, 6],
+    "Rudiger": [2, 5],
+    "James": [24, 2],
+    "Kante": [7, 8],
+    "Jorginho": [5, 10],
+    "Chilwell": [21, 3],
+    "Mount": [19, 7],
+    "Werner": [11, 11],
+    "Havertz": [29, 9]
+}
+```
+
+What if I wanted to include other attributes?
+
+```json
+{
+	...,
+	"Thiago Silva": [...],
+	"Rudiger": [
+    2, // Jersey Number
+    5, // Position
+		23, // Career Goals
+    8, // Tackling
+    9, // Speed
+    8.5, // Strength
+    5, // Heading
+    6 // Passing
+  ],
+	"James": [...],
+	...
+}
+```
+
+![skills](/assets/2023-05-29-deal-with-ai/skill.png)
+
+I could use this same method to embed additional dimensions describing wages, market value, reputation, and whatever else we’d like. Retrieval using those embedding simply requires searching for similarity along the relevant dimensions for the query. Actual embedding algorithms don’t encode data as simply as this, but this gives a general idea of what the numbers mean and how they get used by the model during inference.
+
+Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10) to 12288 (~2^17) dimensions.
 
 \
 \
