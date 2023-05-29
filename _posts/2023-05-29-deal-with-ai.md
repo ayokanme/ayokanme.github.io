@@ -31,7 +31,7 @@ Given a piece of input text, it will respond with text that is very coherent is 
 
 </aside>
 
-GPT-3 and 4 were built with neural networks[cite] trained on text from the internet. Neural nets are infamously known as black boxes. You can set up an optimal number of layers and neurons, but we don’t fully understand their internal workings.
+GPT-3 and 4 were built with neural networks[^1] trained on text from the internet. Neural nets are infamously known as black boxes. You can set up an optimal number of layers and neurons, but we don’t fully understand their internal workings.
 
 However, you don’t need an understand of their internal workings to make the models work for your specific use case. There are two main ways to steer the model in the direction you want: fine tuning and/or text embeddings.
 
@@ -139,7 +139,13 @@ Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10)
 
 **_Notes:_**
 
-[^1]: Neural Network
+[^1]: Prompt: "Explain a neural network to a 10-year old". Response: A neural network is like a clever friend that solves problems by looking at clues. It has many small parts called "neurons" that work together. Think of it as layers of interconnected puzzle solvers. Each layer focuses on different details, like shapes or colors, and passes the information to the next layer.
+
+The first layer looks at basic features, like lines and edges in a picture. It sends these details to the next layer, which combines them to recognize simple shapes. The information keeps flowing through more layers, becoming more complex and abstract. Each layer tries to figure out patterns and features until it reaches the final layer, which gives the answer.
+
+By adjusting the connections between neurons, a neural network learns from examples. Scientists and engineers show it lots of pictures of cats, for example, and tell it whether they have cats or not. The network adjusts its connections to get better at recognizing cats. This learning process is called "training."
+
+Neural networks are used for many tasks, like recognizing objects, translating languages, or playing games. They are powerful problem-solvers that can learn and improve, just like your clever friend who becomes better at puzzles with practice.
 [^2]: Large Language Models. Transformer
 [^3]: Perception. Natural Language Processing. Computer Vision. Speech Recognition
 [^4]: Models. image / text / audio / video
