@@ -127,10 +127,6 @@ I could use this same method to embed additional dimensions describing wages, ma
 
 Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10) to 12288 (~2^17) dimensions.
 
-\
-\
-\
-\
 
 **_Notes:_**
 
