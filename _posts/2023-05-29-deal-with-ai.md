@@ -8,7 +8,11 @@ image: /assets/article_images/2023-05-29-deal-with-ai/header.jpeg
 
 Unless you’ve been living under a rock, sometime late last year or early this year, you probably heard about something called ChatGPT. A very simple-looking chatbot website showed up (seemingly out of nowhere) and put everyone on notice; *AI is about to change the world*.
 
+**...**
+
 _[I’ve been due for a new post for a while. Between moving states, settling into a new city, and endless new distractions (LLMs and all their offshoots) in the world; it’s been challenging to find time to write. Well, the dust has settled a bit. Time to put some thoughts down.]_
+
+**...**
 
 Where did all of this come from, why is it important, and how is it different?
 
@@ -134,7 +138,10 @@ The fascinating thing about AI is it reduces the number of steps required to com
 \
 \
 \
-
-**_Notes:_**
+\
+\
+_**Notes**_  
+  
 [^1]: A large language model is like a super-smart friend that understands and generates human-like text. It uses a special structure called a "transformer" to do this. Transformers are like powerful brains that can understand and create sentences. Imagine you give your friend a sentence, and they can finish it in a very natural and intelligent way. Large language models do the same thing, but on a much larger scale. They read and analyze lots of text, like stories and articles, to learn how people talk and write. When you ask a question or give a prompt, the language model thinks really hard and generates a response that makes sense. It's like having a conversation with a really knowledgeable friend who always has interesting things to say. These language models are used in many ways, like writing articles, answering questions, or even creating stories. They help us communicate and understand each other better, just like a clever friend who knows a lot of things and can talk about them in a natural way.
+
 [^2]: A neural network is like a clever friend that solves problems by looking at clues. It has many small parts called "neurons" that work together. Think of it as layers of interconnected puzzle solvers. Each layer focuses on different details, like shapes or colors, and passes the information to the next layer. The first layer looks at basic features, like lines and edges in a picture. It sends these details to the next layer, which combines them to recognize simple shapes. The information keeps flowing through more layers, becoming more complex and abstract. Each layer tries to figure out patterns and features until it reaches the final layer, which gives the answer. By adjusting the connections between neurons, a neural network learns from examples. If you show it lots of pictures of cats, for example, and tell it whether they have cats or not. The network adjusts its connections to get better at recognizing cats. This learning process is called "training." Neural networks are used for many tasks, like recognizing objects, translating languages, or playing games. They are powerful problem-solvers that can learn and improve, just like your clever friend who becomes better at puzzles with practice.
