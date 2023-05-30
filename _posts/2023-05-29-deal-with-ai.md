@@ -133,7 +133,8 @@ Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10)
 
 **What now?**
 
-The fascinating thing about AI is it reduces the number of steps required to complete tasks. We are no longer limited by buttons and dials on a screen. We can simply pass on our thoughts (unstructured, as we would express them normally), the models parse it for intent, and perform the relevant action.
+
+The fascinating thing about AI is it reduces the number of steps required to complete tasks. We are no longer limited by buttons and dials on a screen. We can simply pass on our thoughts (unstructured, as we would express them normally), the models parse it for intent, and perform the relevant action. There is a saying: "you do not fully understand a problem until you can simplify it enough to be encoded in software program." Now that the barriers to that simplification are being lifted, the implication is that we've massively expanded the scope of problems that can be solved... and created.
 
 \
 \
