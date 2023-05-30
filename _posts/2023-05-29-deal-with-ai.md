@@ -126,8 +126,14 @@ I could use this same method to embed additional dimensions describing wages, ma
 
 Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10) to 12288 (~2^17) dimensions.
 
+
 **What now?**
+
 The fascinating thing about AI is it reduces the number of steps required to complete tasks. We are no longer limited by buttons and dials on a screen. We can simply pass on our thoughts (unstructured, as we would express them normally), the models parse it for intent, and perform the relevant action.
+
+\
+\
+\
 
 **_Notes:_**
 [^1]: A large language model is like a super-smart friend that understands and generates human-like text. It uses a special structure called a "transformer" to do this. Transformers are like powerful brains that can understand and create sentences. Imagine you give your friend a sentence, and they can finish it in a very natural and intelligent way. Large language models do the same thing, but on a much larger scale. They read and analyze lots of text, like stories and articles, to learn how people talk and write. When you ask a question or give a prompt, the language model thinks really hard and generates a response that makes sense. It's like having a conversation with a really knowledgeable friend who always has interesting things to say. These language models are used in many ways, like writing articles, answering questions, or even creating stories. They help us communicate and understand each other better, just like a clever friend who knows a lot of things and can talk about them in a natural way.
