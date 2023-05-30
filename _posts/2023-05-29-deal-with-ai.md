@@ -6,9 +6,9 @@ published: true
 image: /assets/article_images/2023-05-29-deal-with-ai/header.jpeg
 ---
 
-_[I’ve been due for a new post for a while. Between moving states, settling into a new city, and endless new distractions (LLMs and all their offshoots) in the world; it’s been challenging to find time to write. Well, the dust has settled a bit. Time to put some thoughts down.]_
-
 Unless you’ve been living under a rock, sometime late last year or early this year, you probably heard about something called ChatGPT. A very simple-looking chatbot website showed up (seemingly out of nowhere) and put everyone on notice; *AI is about to change the world*.
+
+_[I’ve been due for a new post for a while. Between moving states, settling into a new city, and endless new distractions (LLMs and all their offshoots) in the world; it’s been challenging to find time to write. Well, the dust has settled a bit. Time to put some thoughts down.]_
 
 Where did all of this come from, why is it important, and how is it different?
 
