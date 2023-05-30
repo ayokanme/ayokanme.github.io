@@ -131,7 +131,6 @@ Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10)
 \
 \
 \
-\
 
 **_Notes:_**
 
