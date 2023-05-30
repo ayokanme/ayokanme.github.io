@@ -2,7 +2,7 @@
 layout: post
 title:  "What's the deal with AI?"
 date:   2023-05-29 13:00:00
-published: false
+published: true
 image: /assets/article_images/2023-05-29-deal-with-ai/header.jpeg
 ---
 
@@ -16,26 +16,26 @@ Scientists have grappled with replicating intelligence in machines for almost a 
 
 AI systems have woven themselves into our lives in so many different ways recently. Search results on Google, travel time estimates on maps, movie and tv show recommendations on your favorite streaming services, your algorithmic social media feeds, auto correct, and all the really powerful features smartphone cameras now possess. They take data about your prior actions or some existing data and *predict* what you’d like to see next.
 
-**So why is AI a big deal now?**
+**Why is AI a big deal now?**
 
 I can think of three reasons. (1) Its capabilities have been enhanced from understanding, classification, and prediction to generation. The limits on content creation are ceasing to exist. (2) Accessibility. Everyone is now an app install away from tools like ChatGPT, speech, image, and video generators. (3) It is multimodal. It is now relatively trivial to stack the outputs of a audio, text, image, and video model to create really powerful applications. The next generation of models do not have those limitations and can accept any input to produce any output…
 
 I don’t know what the future holds, but things will get radically different and in much less time than we might expect.
 
-**********************************How is it different?**********************************
+**How is it different?**
 
-Given a piece of input text, it will respond with text that is very coherent is difficult to differentiate from a human. It is not limited to any domain. It is so good at following instructions that it can write essays, stories, poetry, humor, code, pass professional certification exams. People have described it as a stochastic parrot. But it seems to have a model of the world that it bases its responses on. How does it represent and understand that text?
+Let's talk about text-to-text large language models[^1]. Given a piece of input text, it will respond with text that is very coherent is difficult to differentiate from a human. It is not limited to any domain. It is so good at following instructions that it can write essays, stories, poetry, humor, code, pass professional certification exams. People have described it as a stochastic parrot. But it seems to have a model of the world that it bases its responses on. How does it represent and understand that text?
 
 <aside>
 💻 Every step change in computing has been made possible by shifting how data is abstracted.
 
 </aside>
 
-GPT-3 and 4 were built with neural networks[^1] trained on text from the internet. Neural nets are infamously known as black boxes. You can set up an optimal number of layers and neurons, but we don’t fully understand their internal workings.
+GPT-3 and 4 were built with neural networks[^2] trained on text from the internet. Neural nets are infamously known as black boxes. You can set up an optimal number of layers and neurons, but we don’t fully understand their internal workings.
 
-However, you don’t need an understand of their internal workings to make the models work for your specific use case. There are two main ways to steer the model in the direction you want: fine tuning and/or text embeddings.
+However, you don’t need an understand of their internal workings to make the models work for your specific use case. There are two main ways to steer the model in the direction you want: fine tuning and/or embeddings.
 
-Fine tuning is a pretty simple concept. To improve the performance of the model at a certain task, you provide a list of example prompts and example responses. Here’s an example of fine-tuning to categorize text :
+Fine tuning is a pretty simple concept. To improve the performance of the model at a certain task, you provide prompt-response pairs to improve its performance on a particular task. Here’s an example of fine-tuning to categorize text :
 
 ```json
 {"prompt": "The ball went into the net", "completion": "Soccer"}
@@ -54,16 +54,16 @@ Fine tuning is a pretty simple concept. To improve the performance of the model 
 {"prompt": "He chipped the ball onto the green and made a birdie.", "completion": "Golf"}
 ```
 
-How about text embeddings.
+How about embeddings?
 
 <aside>
-🕸️ An *embedding is a numerical representation of data as points in n-dimensional space so that similar data points cluster together.*
+🕸️ An embedding is a numerical representation of data as points in n-dimensional space to enable retrieval and similarity searching.
 
 </aside>
 
 Say I want to store data about a soccer team’s players so that the model can have useful context to answer questions about them. How do I store that data?
 
-A simple way to store the data would be to represent the players by their jersey numbers. But that would not give our bot any context other than, the positions of the players on the field.
+A simple way to store the data would be to represent the players by their jersey numbers. But that would not give our model any context other than, the positions of the players on the field.
 
 
 What if the team was Chelsea’s Champions League winning squad of 2021? Very few of the players have jersey numbers that match their positions on the field.
@@ -129,6 +129,8 @@ My embedding would then look like this:
 
 I could use this same method to embed additional dimensions describing wages, market value, reputation, and whatever else we’d like. Retrieval using those embedding simply requires searching for similarity along the relevant dimensions for the query. Actual embedding algorithms don’t encode data as simply as this, but this gives a general idea of what the numbers mean and how they get used by the model during inference.
 
+
+
 Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10) to 12288 (~2^17) dimensions.
 
 \
@@ -139,9 +141,5 @@ Fun fact: OpenAI’s GPT-3 model family uses embeddings ranging from 1024 (2^10)
 
 **_Notes:_**
 
-[^1]: Prompt: "Explain a neural network to a 10-year old". Response: A neural network is like a clever friend that solves problems by looking at clues. It has many small parts called "neurons" that work together. Think of it as layers of interconnected puzzle solvers. Each layer focuses on different details, like shapes or colors, and passes the information to the next layer. \The first layer looks at basic features, like lines and edges in a picture. It sends these details to the next layer, which combines them to recognize simple shapes. The information keeps flowing through more layers, becoming more complex and abstract. Each layer tries to figure out patterns and features until it reaches the final layer, which gives the answer. \By adjusting the connections between neurons, a neural network learns from examples. Scientists and engineers show it lots of pictures of cats, for example, and tell it whether they have cats or not. The network adjusts its connections to get better at recognizing cats. This learning process is called "training."
-
-Neural networks are used for many tasks, like recognizing objects, translating languages, or playing games. They are powerful problem-solvers that can learn and improve, just like your clever friend who becomes better at puzzles with practice.
-[^2]: Large Language Models. Transformer
-[^3]: Perception. Natural Language Processing. Computer Vision. Speech Recognition
-[^4]: Models. image / text / audio / video
+[^1]: A large language model is like a super-smart friend that understands and generates human-like text. It uses a special structure called a "transformer" to do this. Transformers are like powerful brains that can understand and create sentences. Imagine you give your friend a sentence, and they can finish it in a very natural and intelligent way. Large language models do the same thing, but on a much larger scale. They read and analyze lots of text, like stories and articles, to learn how people talk and write. When you ask a question or give a prompt, the language model thinks really hard and generates a response that makes sense. It's like having a conversation with a really knowledgeable friend who always has interesting things to say. These language models are used in many ways, like writing articles, answering questions, or even creating stories. They help us communicate and understand each other better, just like a clever friend who knows a lot of things and can talk about them in a natural way.
+[^2]: A neural network is like a clever friend that solves problems by looking at clues. It has many small parts called "neurons" that work together. Think of it as layers of interconnected puzzle solvers. Each layer focuses on different details, like shapes or colors, and passes the information to the next layer. The first layer looks at basic features, like lines and edges in a picture. It sends these details to the next layer, which combines them to recognize simple shapes. The information keeps flowing through more layers, becoming more complex and abstract. Each layer tries to figure out patterns and features until it reaches the final layer, which gives the answer. By adjusting the connections between neurons, a neural network learns from examples. Scientists and engineers show it lots of pictures of cats, for example, and tell it whether they have cats or not. The network adjusts its connections to get better at recognizing cats. This learning process is called "training." Neural networks are used for many tasks, like recognizing objects, translating languages, or playing games. They are powerful problem-solvers that can learn and improve, just like your clever friend who becomes better at puzzles with practice.
