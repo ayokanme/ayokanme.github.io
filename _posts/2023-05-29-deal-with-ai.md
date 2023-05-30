@@ -26,10 +26,7 @@ I don’t know what the future holds, but things will get radically different an
 
 Let's talk about text-to-text large language models[^1]. Given a piece of input text, it will respond with text that is very coherent is difficult to differentiate from a human. It is not limited to any domain. It is so good at following instructions that it can write essays, stories, poetry, humor, code, pass professional certification exams. People have described it as a stochastic parrot. But it seems to have a model of the world that it bases its responses on. How does it represent and understand that text?
 
-<aside>
-💻 Every step change in computing has been made possible by shifting how data is abstracted.
-
-</aside>
+  > 💻 Every step change in computing has been made possible by shifting how data is abstracted.
 
 GPT-3 and 4 were built with neural networks[^2] trained on text from the internet. Neural nets are infamously known as black boxes. You can set up an optimal number of layers and neurons, but we don’t fully understand their internal workings.
 
@@ -56,10 +53,7 @@ Fine tuning is a pretty simple concept. To improve the performance of the model 
 
 How about embeddings?
 
-<aside>
-🕸️ An embedding is a numerical representation of data as points in n-dimensional space to enable retrieval and similarity searching.
-
-</aside>
+  > 🕸️ An embedding is a numerical representation of data as points in n-dimensional space to enable retrieval and similarity searching.
 
 Say I want to store data about a soccer team’s players so that the model can have useful context to answer questions about them. How do I store that data?
 
