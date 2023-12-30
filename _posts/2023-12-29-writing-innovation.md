@@ -44,5 +44,5 @@ Perhaps there is more to learn from history even from the little we have recorde
 \
 _**Notes**_  
   
-[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered [Sublime](https://sublime.app/ayokanme), where I could collect my ideas and allow them to collide with others, even as I thought through them.
+[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered [Sublime](https://sublime.app/ayokanme), where I can collect my ideas and allow them to collide with others, even as I think through them.
 
