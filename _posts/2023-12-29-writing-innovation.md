@@ -36,7 +36,7 @@ The forms of text you can compose are limited to the types of text and languages
 
 **…**
 
-Perhaps there is more to learn from history even from the little we have recorded of it. Cognitive revolutions. Inventing new forms of expression (predominantly through writing) helps capture perspectives and allows us to explore new ways of ways of knowing, thinking, and doing.
+Perhaps there is more to learn from history even from the little we have recorded of it. [Cognitive revolutions](https://sublime.app/cognitive-revolutions)[^1]. Inventing new forms of expression (predominantly through writing) helps capture perspectives and allows us to explore new ways of ways of knowing, thinking, and doing.
 \
 \
 \
@@ -44,4 +44,5 @@ Perhaps there is more to learn from history even from the little we have recorde
 \
 _**Notes**_  
   
-[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered Sublime, where I could collect my ideas and allow them to collide with others, even as I thought through them. Related musings can be found in my collection -- [Cognitive Revolutions](https://sublime.app/cognitive-revolutions)
+[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered Sublime, where I could collect my ideas and allow them to collide with others, even as I thought through them. Related musings can be found in my [collection on Sublime](https://sublime.app/cognitive-revolutions)
+
