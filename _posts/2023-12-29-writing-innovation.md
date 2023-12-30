@@ -8,7 +8,7 @@ image: /assets/article_images/writing4innovation.jpg
 
 I visited Egypt over the summer. We spent a few days in Cairo with our friend who was getting married. Then we flew to Aswan to marvel at the ruins of ancient Egypt while cruising along the Nile.
 
-My biggest takeaway from the trip was neither the grandeur of the pyramids in Giza, the impressive Kom Ombo temple, nor the energy of New Cairo City. No. It was the stories that survived the centuries.
+My biggest takeaway from the trip was neither the grandeur of the pyramids in Giza, the impressive Kom Ombo Temple[^1], nor the energy of New Cairo City. No. It was the stories that survived the centuries.
 
 The ancient Egyptians left meticulous records of their festivals, foreign expeditions, and even details of the exploits of their convicts.
 
@@ -36,7 +36,7 @@ The forms of text you can compose are limited to the types of text and languages
 
 **…**
 
-Perhaps there is more to learn from history even from the little we have recorded of it. [Cognitive revolutions](https://sublime.app/cognitive-revolutions)[^1]. Inventing new forms of expression (predominantly through writing) helps capture perspectives and allows us to explore new ways of ways of knowing, thinking, and doing.
+Perhaps there is more to learn from history even from the little we have recorded of it. [Cognitive revolutions](https://sublime.app/cognitive-revolutions)[^2]. Inventing new forms of expression (predominantly through writing) helps capture perspectives and allows us to explore new ways of ways of knowing, thinking, and doing.
 \
 \
 \
@@ -44,5 +44,7 @@ Perhaps there is more to learn from history even from the little we have recorde
 \
 _**Notes**_  
   
-[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered [Sublime](https://sublime.app/ayokanme), where I can collect my ideas and allow them to collide with others, even as I think through them.
+[^1]: The [Kom Ombo Temple](https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo) aside from being an incredibly well-preserved architectural marvel has some very intricate details that piqued my interest. The [ancient Egyptian calendar](https://www.thoughtco.com/ancient-egypt-birthplace-of-modern-calendar-43706) indicates the timing of floods. Agriculture is a difficult undertaking, talk less of attempting it in a desert. Secondly, and I think most impressive, [the Nilometer](https://en.wikipedia.org/wiki/Nilometer) for measuring water levels and clarity.
+
+[^2]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered [Sublime](https://sublime.app/ayokanme), where I can collect my ideas and allow them to collide with others, even as I think through them.
 
