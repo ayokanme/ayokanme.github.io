@@ -3,7 +3,7 @@ layout: post
 title:  "Writing for Innovation"
 date:   2023-12-29 13:00:00
 published: true
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+image: /assets/article_images/writing4innovation.jpg
 ---
 
 I visited Egypt over the summer. We spent a few days in Cairo with our friend who was getting married. Then we flew to Aswan to marvel at the ruins of ancient Egypt while cruising along the Nile.
