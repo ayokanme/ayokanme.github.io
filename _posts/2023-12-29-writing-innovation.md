@@ -12,7 +12,7 @@ My biggest takeaway from the trip was neither the grandeur of the pyramids in Gi
 
 The ancient Egyptians left meticulous records of their festivals, foreign expeditions, and even details of the exploits of their convicts.
 
-…
+**…**
 
 If you were born 7000 years ago, you probably learned about recipes, hunting and farming techniques, and spirituality in an oral fashion. You could ask follow-up questions and poke holes in arguments. Learning was tied to the person you were conversing with. When pictographic representations and writing scripts came around, learning started the shift from live, in-person, interactions to on-demand.
 
@@ -34,7 +34,14 @@ The current forms of AI that we have serve as a knowledge corpus for all of soci
 
 The forms of text you can compose are limited to the types of text and languages that have been written down.
 
-…
+**…**
 
 Perhaps there is more to learn from history even from the little we have recorded of it. Cognitive revolutions. Inventing new forms of expression (predominantly through writing) helps capture perspectives and allows us to explore new ways of ways of knowing, thinking, and doing.
-
+\
+\
+\
+\
+\
+_**Notes**_  
+  
+[^1]: I started putting this article together shortly after my return from Egypt. But it didn't feel complete. Fast-forward a couple of months and I discovered Sublime, where I could collect my ideas and allow them to collide with others, even as I thought through them. Related musings can be found in my collection -- [Cognitive Revolutions](https://sublime.app/cognitive-revolutions)
