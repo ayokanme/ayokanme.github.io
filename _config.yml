@@ -53,7 +53,7 @@ social:
     share_title:
     share_link:
 
- - icon:	handshake-o
+  - icon:	handshake-o
     url:	https://collab.ayokan.me
     desc: Collaborate with me on PolyWork
     share_url:
