@@ -46,16 +46,16 @@ social:
     share_title:
     share_link:
 
-  - icon:	handshake-o
-    url:	https://collab.ayokan.me
-    desc: Collaborate with me on PolyWork
+  - icon:	connectdevelop
+    url:	https://sublime.app/ayokanme
+    desc: Join me as I connect the dots
     share_url:
     share_title:
     share_link:
 
-  - icon:	connectdevelop
-    url:	https://sublime.app/ayokanme
-    desc: Join me as I connect the dots
+ - icon:	handshake-o
+    url:	https://collab.ayokan.me
+    desc: Collaborate with me on PolyWork
     share_url:
     share_title:
     share_link:
